@@ -1,7 +1,7 @@
 # apartment-visitor-web-portal
 Apartment Visitors Management System  Project
 
-How to run the Apartment Visitors Management System (AVMS) Project
+How to run the Apartment Visitors Management System  Project
 
 1. Download the  zip file
 
